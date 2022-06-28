@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div id="main">
       <h3 data-ns-test='project-name'>Financial Manager</h3>
-      <p data-ns-test='project-description'>This is my dream Project</p>
+      <dl data-ns-test='project-description'><dd>This is my dream Project</dd></dl>
     </div>
   )
 }
